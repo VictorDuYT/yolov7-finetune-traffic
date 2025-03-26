@@ -2,6 +2,8 @@
 
 Try our fine-tuned model in this [Colab demo](https://colab.research.google.com/drive/1cKgQA2kxRaI3kdDwA9pZOQF62EOwBrsO?usp=sharing)
 
+Finetuning road sign dataset (700 training images) can be found in [this roboflow repo](https://app.roboflow.com/ceg5303project1/road-signs-boyvj-qqjqt/1)
+
 # Official YOLOv7
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
