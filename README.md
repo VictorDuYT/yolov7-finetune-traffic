@@ -1,4 +1,6 @@
-# Try our fine-tuned model in this [Colab demo](https://colab.research.google.com/drive/1cKgQA2kxRaI3kdDwA9pZOQF62EOwBrsO?usp=sharing)
+# Our fine-tuned model 
+
+Try our fine-tuned model in this [Colab demo](https://colab.research.google.com/drive/1cKgQA2kxRaI3kdDwA9pZOQF62EOwBrsO?usp=sharing)
 
 # Official YOLOv7
 
